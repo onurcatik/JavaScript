@@ -10,8 +10,8 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Arithmetic Operators                  |✅|[📄](./01_Beginner/02_arithmetic-operators/README.md)|
 | User Input                            |✅|[📄](./01_Beginner/03_user-input/README.md)|
 | Type Conversion                       |✅|[📄](./01_Beginner/04_type-conversion/README.md)|
-| Constants Are Easy                    |❌|[📄](./01_Beginner/05_constants/README.md)|
-| Counter Program                       |❌|[📄](./01_Beginner/01_variables/README.md)|
+| Constants Are Easy                    |✅|[📄](./01_Beginner/05_constants/README.md)|
+| Counter Program                       |✅|[📄](./01_Beginner/06_counter-program/README.md)|
 | Math Object                           |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Random Number Generator               |❌|[📄](./01_Beginner/01_variables/README.md)|
 | If Statements                         |❌|[📄](./01_Beginner/01_variables/README.md)|
