@@ -14,8 +14,8 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Counter Program                       |✅|[📄](./01_Beginner/06_counter-program/README.md)|
 | Math Object                           |✅|[📄](./01_Beginner/07_math-object/README.md)|
 | Random Number Generator               |✅|[📄](./01_Beginner/08_random-number-generator/README.md)|
-| If Statements                         |❌|[📄](./01_Beginner/01_variables/README.md)|
-| Checked Property                      |❌|[📄](./01_Beginner/01_variables/README.md)|
+| If Statements                         |✅|[📄](./01_Beginner/01_variables/README.md)|
+| Checked Property                      |✅|[📄](./01_Beginner/01_variables/README.md)|
 | Ternary Operator                      |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Switches                              |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Useful String Methods                 |❌|[📄](./01_Beginner/01_variables/README.md)|

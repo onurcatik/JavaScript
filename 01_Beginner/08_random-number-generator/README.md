@@ -1,7 +1,5 @@
 # Random Number Generator
 
-
-
 ## Generating a Random Number
 
 To generate a random number in JavaScript, we use the `Math.random` method. This method returns a floating-point number between 0 (inclusive) and 1 (exclusive).
