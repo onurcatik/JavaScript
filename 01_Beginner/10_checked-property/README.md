@@ -1,4 +1,4 @@
-## Understanding the `checked` Property in JavaScript
+## `checked` Property in JavaScript
 
 The `checked` property in JavaScript is an essential feature when working with forms that include checkboxes or radio buttons. This property allows developers to determine and control whether a checkbox or radio button is selected. In this tutorial, we will explore the `checked` property in detail and provide code snippets to demonstrate its use.
 
