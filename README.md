@@ -16,8 +16,8 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Random Number Generator               |✅|[📄](./01_Beginner/08_random-number-generator/README.md)|
 | If Statements                         |✅|[📄](./01_Beginner/09_if-statements/README.md)|
 | Checked Property                      |✅|[📄](./01_Beginner/10_checked-property/README.md)|
-| Ternary Operator                      |❌|[📄](./01_Beginner/01_variables/README.md)|
-| Switches                              |❌|[📄](./01_Beginner/01_variables/README.md)|
+| Ternary Operator                      |✅|[📄](./01_Beginner/11_ternary-operator/README.md)|
+| Switches                              |✅|[📄](./01_Beginner/12_switches/README.md)|
 | Useful String Methods                 |❌|[📄](./01_Beginner/01_variables/README.md)|
 | String Slicing                        |❌|[📄](./01_Beginner/01_variables/README.md)|
 | JS Method Chaining                    |❌|[📄](./01_Beginner/01_variables/README.md)|
