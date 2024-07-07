@@ -23,9 +23,9 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | JS Method Chaining                    |✅|[📄](./01_Beginner/15_method-chaining/README.md)|
 | Logical Operators                     |✅|[📄](./01_Beginner/16_logical-operators/README.md)|
 | Strict Equality                       |✅|[📄](./01_Beginner/17_strict-equality/README.md)|
-| While Loops                           |❌|[📄](./01_Beginner/01_variables/README.md)|
-| For Loops                             |❌|[📄](./01_Beginner/01_variables/README.md)|
-| Number Guessing Game                  |❌|[📄](./01_Beginner/01_variables/README.md)|
+| While Loops                           |✅|[📄](./01_Beginner/18_while-loops/README.md)|
+| For Loops                             |✅|[📄](./01_Beginner/19_for-loops/README.md)|
+| Number Guessing Game                  |✅|[📄](./01_Beginner/20_number-guessing-game/README.md)|
 | Functions                             |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Variable Scope                        |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Temperature Conversion Program        |❌|[📄](./01_Beginner/01_variables/README.md)|

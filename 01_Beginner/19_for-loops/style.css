@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#number-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+#number-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#number-list li {
+    padding: 8px;
+    margin: 4px 0;
+    border-radius: 4px;
+    color: #fff;
+}
+
+.odd {
+    background-color: #ff6347;
+}
+
+.even {
+    background-color: #4682b4;
+}
