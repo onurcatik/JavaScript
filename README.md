@@ -20,7 +20,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Switches                              |✅|[📄](./01_Beginner/12_switches/README.md)|
 | Useful String Methods                 |✅|[📄](./01_Beginner/13_strings-methods/README.md)|
 | String Slicing                        |✅|[📄](./01_Beginner/14_string-slices/README.md)|
-| JS Method Chaining                    |❌|[📄](./01_Beginner/01_variables/README.md)|
+| JS Method Chaining                    |✅|[📄](./01_Beginner/15_method-chaining/README.md|
 | Logical Operators                     |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Strict Equality                       |❌|[📄](./01_Beginner/01_variables/README.md)|
 | While Loops                           |❌|[📄](./01_Beginner/01_variables/README.md)|
