@@ -1,4 +1,4 @@
-# Understanding JavaScript Logical Operators
+#  Logical Operators
 
 In JavaScript, logical operators are crucial for handling Boolean values, which are either `true` or `false`. These operators allow you to combine or manipulate these Boolean values in various ways. The three primary logical operators in JavaScript are `AND (&&)`, `OR (||)`, and `NOT (!)`. This tutorial provides a thorough and precise exploration of these operators, complete with examples and explanations.
 
