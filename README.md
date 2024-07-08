@@ -28,7 +28,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Number Guessing Game                  |✅|[📄](./01_Beginner/20_number-guessing-game/README.md)|
 | Functions                             |✅|[📄](./01_Beginner/21_functions/README.md)|
 | Variable Scope                        |✅|[📄](./01_Beginner/22_variable-scopes/README.md)|
-| Temperature Conversion Program        |❌|[📄](./01_Beginner/01_variables/README.md)|
+| Temperature Conversion Program        |✅|[📄](./01_Beginner/23_temperature-conversion-program/README.md)|
 
 ## Intermediate
 

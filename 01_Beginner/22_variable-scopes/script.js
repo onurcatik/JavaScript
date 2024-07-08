@@ -1,25 +1,25 @@
-let globalVar = 'I am a global variable!'; // Global scope: Bu değişken, tüm kod boyunca herhangi bir yerden erişilebilir.
+let globalVar = 'I am a global variable!'; // Global scope: This variable can be accessed from anywhere in the code.
 
-// globalFunction fonksiyonu, globalVar değişkenini kullanarak HTML içeriğini günceller.
+// globalFunction uses the globalVar to update the HTML content.
 function globalFunction() {
-    document.getElementById('output').innerHTML = globalVar; // Global değişken kullanımı.
+    document.getElementById('output').innerHTML = globalVar; // Using the global variable.
 }
 
-// localFunction fonksiyonu, kendi yerel değişkenini tanımlar ve HTML içeriğini bu yerel değişkenle günceller.
+// localFunction defines its own local variable and updates the HTML content with this local variable.
 function localFunction() {
-    let localVar = 'I am a local variable!'; // Local scope: Bu değişken sadece localFunction içinde kullanılabilir.
-    document.getElementById('output').innerHTML = localVar; // Yerel değişken kullanımı.
+    let localVar = 'I am a local variable!'; // Local scope: This variable can only be accessed within localFunction.
+    document.getElementById('output').innerHTML = localVar; // Using the local variable.
 }
 
-// nestedFunction fonksiyonu, iç içe geçmiş fonksiyonlar ve değişken kapsamını gösterir.
+// nestedFunction demonstrates nested functions and variable scope.
 function nestedFunction() {
-    let outerVar = 'I am an outer variable!'; // Bu değişken, nestedFunction içinde yerel olarak tanımlanmıştır.
+    let outerVar = 'I am an outer variable!'; // This variable is locally defined within nestedFunction.
     
-    // innerFunction fonksiyonu, outerVar ve innerVar değişkenlerini kullanarak HTML içeriğini günceller.
+    // innerFunction uses outerVar and innerVar to update the HTML content.
     function innerFunction() {
-        let innerVar = 'I am an inner variable!'; // Bu değişken, sadece innerFunction içinde kullanılabilir.
-        document.getElementById('output').innerHTML = `${outerVar} and ${innerVar}`; // Hem outerVar hem de innerVar kullanımı.
+        let innerVar = 'I am an inner variable!'; // This variable can only be accessed within innerFunction.
+        document.getElementById('output').innerHTML = `${outerVar} and ${innerVar}`; // Using both outerVar and innerVar.
     }
     
-    innerFunction(); // innerFunction çağrısı, nestedFunction içinde yapılır.
+    innerFunction(); // Calling innerFunction within nestedFunction.
 }
