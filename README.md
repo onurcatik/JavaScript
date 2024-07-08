@@ -26,7 +26,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | While Loops                           |✅|[📄](./01_Beginner/18_while-loops/README.md)|
 | For Loops                             |✅|[📄](./01_Beginner/19_for-loops/README.md)|
 | Number Guessing Game                  |✅|[📄](./01_Beginner/20_number-guessing-game/README.md)|
-| Functions                             |❌|[📄](./01_Beginner/01_variables/README.md)|
+| Functions                             |✅|[📄](./01_Beginner/21_functions/README.md)|
 | Variable Scope                        |❌|[📄](./01_Beginner/01_variables/README.md)|
 | Temperature Conversion Program        |❌|[📄](./01_Beginner/01_variables/README.md)|
 
