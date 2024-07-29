@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        let username = window.prompt("Enter your username");
+        username = username.trim();
+
+        let firstChars = username.charAt(0).toUpperCase();
+        let restChars = username.slice(1).toLowerCase();
+        username = firstChars + restChars;
+
+        document.write("Username: " + username);
+    </script>
+</body>
+</html>

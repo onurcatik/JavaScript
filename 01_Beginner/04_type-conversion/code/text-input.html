@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Input and Display</title>
+</head>
+<body>
+    <h1>User Input</h1>
+    <p id="user-input">Waiting for user input...</p>
+
+    <script>
+        let userInput = window.prompt("Enter a value:");
+        let userInputElement = document.getElementById('user-input');
+
+        if(!userInput){
+            console.log("User did not enter a value");
+            userInputElement.textContent = "User did not enter a value";
+        } else {
+            let numericInput = Number(userInput);
+            if (isNaN(numericInput)) {
+                console.log("User did not enter a number");
+                userInputElement.textContent = "User did not enter a number";
+            } else {
+                console.log("User entered a number");
+                userInputElement.textContent = "User entered a number";
+            }
+        }
+    </script>
+</body>
+</html>

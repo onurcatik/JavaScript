@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prompt Example</title>
+</head>
+<body>
+    <h1>Age Calculator</h1>
+    <p id="message"></p>
+
+    <script>
+        // Kullanıcıdan yaşını isteme
+        let age = window.prompt("How old are you?");
+
+        // Kullanıcıdan alınan değeri sayıya çevirme
+        age = Number(age);
+
+        // Kullanıcının yaşını bir artırma
+        age += 1;
+
+        // Sonucu sayfada gösterme
+        const messageElement = document.getElementById('message');
+        messageElement.textContent = `Next year, you will be ${age} years old. The type of age is: ${typeof age}`;
+    </script>
+</body>
+</html>
+
+

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Prompt Example</title>
+</head>
+<body>
+    <div id="greeting"></div> <!-- Kullanıcının adını gösterecek div elementi -->
+    
+    <script>
+        let username;
+        username = window.prompt("Whats Your name?");
+        console.log(username);
+
+        // Kullanıcının adını sayfada göster
+        const greetingElement = document.getElementById("greeting");
+        greetingElement.textContent = "Hello, " + username + "!";
+
+    </script>
+</body>
+</html>
+

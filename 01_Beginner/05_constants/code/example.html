@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Circumference Calculator</h1>
+    <p id="message"></p>
+
+    <script>
+      const PI = 3.14159;
+      let radius;
+      let circumference;
+
+      radius = window.prompt("Enter circle:");
+      circumference = 2 * PI * radius;
+
+      console.log("Circumference is" + circumference);
+      const circle = document.getElementById("message");
+      circle.textContent = `Circle ${circumference}`;
+    </script>
+  </body>
+</html>
