@@ -32,40 +32,40 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 
 ## Intermediate
 
-| Lesson Title                           | Status |
-|----------------------------------------|--------|
-| Arrays                                 |❌|
-| 2D Arrays                              |❌|
-| Spread Operator                        |❌|
-| Rest Parameters                        |❌|
-| Dice Roller Program                    |❌|
-| Random Password Generator              |❌|
-| Callbacks                              |❌|
-| forEach() Method                       |❌|
-| map() Method                           |❌|
-| filter() Method                        |❌|
-| reduce() Method                        |❌|
-| Function Expressions                   |❌|
-| Arrow Functions                        |❌|
-| Objects                                |❌|
-| 'This'                                 |❌|
-| Constructors                           |❌|
-| Classes                                |❌|
-| Static Keyword                         |❌|
-| Inheritance                            |❌|
-| The Super Keyword                      |❌|
-| Getters & Setters                      |❌|
-| Destructuring                          |❌|
-| Nested Objects                         |❌|
-| Arrays of Objects                      |❌|
-| Sorting                                |❌|
-| Shuffle an Array                       |❌|
-| Date Objects                           |❌|
-| Closures                               |❌|
-| setTimeout()                           |❌|
-| console.time()                         |❌|
-| Format Currency                        |❌|
 
+| Lesson Title             | Status | Document |
+|--------------------------|--------|----------|
+| Arrays                   | ✅      |  [📄](./02_Intermediate/01_arrays/README.md)        |
+| 2D Arrays                | ✅      |  [📄](./02_Intermediate/02_2d-arrays/README.md)     |
+| Spread Operator          | ✅      |  [📄](./02_Intermediate/03_spread-operators/README.md)         |
+| Rest Parameters          | ✅      |          |
+| Dice Roller Program      | ✅      |          |
+| Random Password Generator| ✅      |          |
+| Callbacks                | ✅      |          |
+| forEach() Method         | ✅      |          |
+| map() Method             | ❌      |          |
+| filter() Method          | ❌      |          |
+| reduce() Method          | ❌      |          |
+| Function Expressions     | ❌      |          |
+| Arrow Functions          | ❌      |          |
+| Objects                  | ❌      |          |
+| 'This'                   | ❌      |          |
+| Constructors             | ❌      |          |
+| Classes                  | ❌      |          |
+| Static Keyword           | ❌      |          |
+| Inheritance              | ❌      |          |
+| The Super Keyword        | ❌      |          |
+| Getters & Setters        | ❌      |          |
+| Destructuring            | ❌      |          |
+| Nested Objects           | ❌      |          |
+| Arrays of Objects        | ❌      |          |
+| Sorting                  | ❌      |          |
+| Shuffle an Array         | ❌      |          |
+| Date Objects             | ❌      |          |
+| Closures                 | ❌      |          |
+| setTimeout()             | ❌      |          |
+| console.time()           | ❌      |          |
+| Format Currency          | ❌      |          |
 ## Advanced
 
 | Lesson Title                          | Status |
