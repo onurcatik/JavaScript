@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Getters & Setters Example</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Person Information</h1>
+        <form id="person-form">
+            <label for="first-name">First Name:</label>
+            <input type="text" id="first-name" name="first-name" required>
+
+            <label for="last-name">Last Name:</label>
+            <input type="text" id="last-name" name="last-name" required>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required>
+
+            <button type="submit">Create Person</button>
+        </form>
+        <div id="person-info" class="hidden">
+            <h2>Person Details</h2>
+            <p><strong>First Name:</strong> <span id="display-first-name"></span></p>
+            <p><strong>Last Name:</strong> <span id="display-last-name"></span></p>
+            <p><strong>Age:</strong> <span id="display-age"></span></p>
+            <p><strong>Full Name:</strong> <span id="display-full-name"></span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
