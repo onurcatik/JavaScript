@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Understanding `this` in JavaScript</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="person" id="person1">
+        <h2>Person 1</h2>
+        <button onclick="person1.sayHello()">Say Hello</button>
+        <button onclick="person1.eat()">Eat</button>
+        <p id="person1Output"></p>
+    </div>
+
+    <div class="person" id="person2">
+        <h2>Person 2</h2>
+        <button onclick="person2.sayHello()">Say Hello</button>
+        <button onclick="person2.eat()">Eat</button>
+        <p id="person2Output"></p>
+    </div>
+
+    <div class="person" id="person3">
+        <h2>Person3</h2>
+        <button onclick="person3.sayHello()">Say Hello</button>
+        <button onclick="person3.eat()">Eat</button>
+        <p id="person3Output"></p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
