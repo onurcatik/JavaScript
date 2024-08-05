@@ -12,7 +12,6 @@ class User {
         console.log(`Hello, my username is ${this.username}`);
     }
 
-    // Static method to get the user count
     static getUserCount() {
         console.log(`There are ${User.userCount} users online`);
     }

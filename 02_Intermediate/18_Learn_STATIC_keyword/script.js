@@ -7,7 +7,7 @@ class User {
     }
 
     sayHello() {
-        return `Hello, my username is ${this.username}`;
+        return `Hello, my username is ${this.username}`; // True
     }
 
     static getUserCount() {
