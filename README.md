@@ -43,7 +43,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Random Password Generator| ✅      |          |
 | Callbacks                | ✅      |          |
 | forEach() Method         | ✅      |          |
-| map() Method             | ❌      |          |
+| map() Method             | ✅      |          |
 | filter() Method          | ❌      |          |
 | reduce() Method          | ❌      |          |
 | Function Expressions     | ❌      |          |
