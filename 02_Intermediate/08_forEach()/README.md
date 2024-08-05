@@ -1,4 +1,4 @@
-# JavaScript forEach() Method in 8 Minutes! ➿
+# JavaScript forEach() Method ➿
 
 ## Introduction
 

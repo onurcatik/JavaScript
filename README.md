@@ -38,34 +38,34 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Arrays                   | ✅      |  [📄](./02_Intermediate/01_arrays/README.md)        |
 | 2D Arrays                | ✅      |  [📄](./02_Intermediate/02_2d-arrays/README.md)     |
 | Spread Operator          | ✅      |  [📄](./02_Intermediate/03_spread-operators/README.md)         |
-| Rest Parameters          | ✅      |          |
-| Dice Roller Program      | ✅      |          |
-| Random Password Generator| ✅      |          |
-| Callbacks                | ✅      |          |
-| forEach() Method         | ✅      |          |
-| map() Method             | ✅      |          |
-| filter() Method          | ❌      |          |
-| reduce() Method          | ❌      |          |
-| Function Expressions     | ❌      |          |
-| Arrow Functions          | ❌      |          |
-| Objects                  | ❌      |          |
-| 'This'                   | ❌      |          |
-| Constructors             | ❌      |          |
-| Classes                  | ❌      |          |
-| Static Keyword           | ❌      |          |
-| Inheritance              | ❌      |          |
-| The Super Keyword        | ❌      |          |
-| Getters & Setters        | ❌      |          |
-| Destructuring            | ❌      |          |
-| Nested Objects           | ❌      |          |
-| Arrays of Objects        | ❌      |          |
-| Sorting                  | ❌      |          |
-| Shuffle an Array         | ❌      |          |
-| Date Objects             | ❌      |          |
-| Closures                 | ❌      |          |
-| setTimeout()             | ❌      |          |
-| console.time()           | ❌      |          |
-| Format Currency          | ❌      |          |
+| Rest Parameters          | ✅      |  [📄](./02_Intermediate/04_REST-parameters/README.md)        |
+| Dice Roller Program      | ✅      |  [📄](./02_Intermediate/05_dice-roller-program/README.md)        |
+| Random Password Generator| ✅      |  [📄](./02_Intermediate/06_Build_a_random_password_generator/README.md)        |
+| Callbacks                | ✅      |  [📄](./02_Intermediate/07_Learn_CALLBACKS/README.md)        |
+| forEach() Method         | ✅      |  [📄](./02_Intermediate/08_forEach()/README.md)        |
+| map() Method             | ✅      |  [📄](./02_Intermediate/09_map()/README.md)        |
+| filter() Method          | ✅      |  [📄](./02_Intermediate/10_filter()/README.md)        |
+| reduce() Method          | ✅      |  [📄](./02_Intermediate/11_reduce()/README.md)        |
+| Function Expressions     | ✅      |  [📄](./02_Intermediate/12_FUNCTION_EXPRESSIONS/README.md)        |
+| Arrow Functions          | ✅      |  [📄](./02_Intermediate/13_Learn_ARROW_FUNCTIONS/README.md)        |
+| Objects                  | ✅      |  [📄](./02_Intermediate/14_Learn_OBJECTS/README.md)        |
+| 'This'                   | ✅      |  [📄](./02_Intermediate/15_What_is_THIS_in/README.md)        |
+| Constructors             | ✅      |  [📄](./02_Intermediate/16_CONSTRUCTORS/README.md)        |
+| Classes                  | ✅      |  [📄](./02_Intermediate/17_Learn_CLASSES/README.md)        |
+| Static Keyword           | ✅      |  [📄](./02_Intermediate/18_Learn_STATIC_keyword/README.md)        |
+| Inheritance              | ✅      |  [📄](./02_Intermediate/19_Learn_INHERITANCE/README.md)        |
+| The Super Keyword        | ✅      |  [📄](./02_Intermediate/19_Learn_INHERITANCE/README.md)        |
+| Getters & Setters        | ✅      |  [📄](./02_Intermediate/21_GETTERS_&_SETTERS/README.md)        |
+| Destructuring            | ✅      |  [📄](./02_Intermediate/22_DESTRUCTURING/README.md)        |
+| Nested Objects           | ✅      |  [📄](./02_Intermediate/23_Learn_NESTED_OBJECTS/README.md)        |
+| Arrays of Objects        | ❌      |  [📄]        |
+| Sorting                  | ❌      |  [📄]        |
+| Shuffle an Array         | ❌      |  [📄]        |
+| Date Objects             | ❌      |  [📄]        |
+| Closures                 | ❌      |  [📄]       |
+| setTimeout()             | ❌      |  [📄]        |
+| console.time()           | ❌      |  [📄]        |
+| Format Currency          | ❌      |  [📄]        |
 ## Advanced
 
 | Lesson Title                          | Status |
