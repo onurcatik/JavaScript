@@ -59,7 +59,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Destructuring            | ✅      |  [📄](./02_Intermediate/22_DESTRUCTURING/README.md)        |
 | Nested Objects           | ✅      |  [📄](./02_Intermediate/23_Learn_NESTED_OBJECTS/README.md)        |
 | Arrays of Objects        | ❌      |  [📄](./02_Intermediate/24_ARRAYS_of_OBJECTS/README.md)        |
-| Sorting                  | ❌      |  [📄]        |
+| Sorting                  | ❌      |  [📄](./02_Intermediate/25_Learn_SORTING/README.md)        |
 | Shuffle an Array         | ❌      |  [📄]        |
 | Date Objects             | ❌      |  [📄]        |
 | Closures                 | ❌      |  [📄]       |
