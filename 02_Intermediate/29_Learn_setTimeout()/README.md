@@ -1,4 +1,4 @@
-### Learn JavaScript `setTimeout()` in 6 Minutes
+### Learn JavaScript `setTimeout()` 
 
 The `setTimeout()` function in JavaScript is a powerful tool that allows developers to schedule the execution of a function after a specified delay in milliseconds. Despite its simplicity, there are important nuances to understand when using `setTimeout()`, particularly regarding its accuracy and use cases. This tutorial will guide you through the correct and precise usage of `setTimeout()` while addressing some common misconceptions.
 

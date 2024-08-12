@@ -65,7 +65,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Closures                 | ✅      |  [📄](./02_Intermediate/28_Learn_CLOSURES/README.md)       |
 | setTimeout()             | ✅      |  [📄](./02_Intermediate/29_Learn_setTimeout()/README.md)        |
 | console.time()           | ✅      |  [📄](./02_Intermediate/30_console.time()/README.md)        |
-| Format Currency          | ❌      |  [📄]        |
+| Format Currency          | ✅      |  [📄](./02_Intermediate/31_Format_currency_EASY_in/README.md)        |
 ## Advanced
 
 | Lesson Title                          | Status |
