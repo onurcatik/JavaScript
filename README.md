@@ -62,7 +62,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Sorting                  | ✅      |  [📄](./02_Intermediate/25_Learn_SORTING/README.md)        |
 | Shuffle an Array         | ✅      |  [📄](./02_Intermediate/26_How_to_SHUFFLE_AN_ARRAY/README.md)        |
 | Date Objects             | ✅      |  [📄](./02_Intermediate/27_Learn_DATE_objects/README.md)        |
-| Closures                 | ❌      |  [📄]       |
+| Closures                 | ❌      |  [📄](./02_Intermediate/28_Learn_CLOSURES/README.md)       |
 | setTimeout()             | ❌      |  [📄]        |
 | console.time()           | ❌      |  [📄]        |
 | Format Currency          | ❌      |  [📄]        |
