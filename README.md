@@ -61,7 +61,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Arrays of Objects        | ✅      |  [📄](./02_Intermediate/24_ARRAYS_of_OBJECTS/README.md)        |
 | Sorting                  | ✅      |  [📄](./02_Intermediate/25_Learn_SORTING/README.md)        |
 | Shuffle an Array         | ✅      |  [📄](./02_Intermediate/26_How_to_SHUFFLE_AN_ARRAY/README.md)        |
-| Date Objects             | ❌      |  [📄]        |
+| Date Objects             | ✅      |  [📄](./02_Intermediate/27_Learn_DATE_objects/README.md)        |
 | Closures                 | ❌      |  [📄]       |
 | setTimeout()             | ❌      |  [📄]        |
 | console.time()           | ❌      |  [📄]        |
