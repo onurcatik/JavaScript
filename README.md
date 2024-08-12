@@ -64,7 +64,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Date Objects             | ✅      |  [📄](./02_Intermediate/27_Learn_DATE_objects/README.md)        |
 | Closures                 | ✅      |  [📄](./02_Intermediate/28_Learn_CLOSURES/README.md)       |
 | setTimeout()             | ✅      |  [📄](./02_Intermediate/29_Learn_setTimeout()/README.md)        |
-| console.time()           | ❌      |  [📄]        |
+| console.time()           | ✅      |  [📄](./02_Intermediate/30_console.time()/README.md)        |
 | Format Currency          | ❌      |  [📄]        |
 ## Advanced
 

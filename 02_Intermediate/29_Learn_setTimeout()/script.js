@@ -1,21 +1,20 @@
-document.getElementById('startLoadData').addEventListener('click', function() {
-    console.time("loadData");
+let timeoutID;
 
-    for (let i = 0; i < 100000000; i++) {
-        // Simulate loading data
-    }
+function startTimer() {
+    timeoutID = setTimeout(() => {
+        document.getElementById('status').textContent = 'Status: Timer completed!';
+        alert('Hello!');
+    }, 3000);
 
-    console.timeEnd("loadData");
-    document.getElementById('output').innerHTML = "Data loading time has been logged to the console.";
-});
+    document.getElementById('status').textContent = 'Status: Timer started...';
+    console.log('Timer started');
+}
 
-document.getElementById('startProcessData').addEventListener('click', function() {
-    console.time("processData");
+function clearTimer() {
+    clearTimeout(timeoutID);
+    document.getElementById('status').textContent = 'Status: Timer cleared';
+    console.log('Timer cleared');
+}
 
-    for (let i = 0; i < 1000000; i++) {
-        // Simulate processing data
-    }
-
-    console.timeEnd("processData");
-    document.getElementById('output').innerHTML = "Data processing time has been logged to the console.";
-});
+document.getElementById('startButton').onclick = startTimer;
+document.getElementById('clearButton').onclick = clearTimer;
