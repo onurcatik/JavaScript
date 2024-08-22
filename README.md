@@ -74,8 +74,8 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Digital Clock                         |✅|        [📄](./03_Advanced/02_Build_this_JS_Digital_Clock/README.md)        |
 | Stopwatch                             |✅|        [📄](./03_Advanced/03_Build_this_JS_STOPWATCH/README.md)        |
 | ES6 Modules                           |✅|        [📄](./03_Advanced/04_Learn_ES6_Modules/README.md)        |
-| Asynchronous JavaScript               |❌|        [📄](./03_Advanced/05_What_is_asynchronous_code/README.md)        |
-| Error Handling                        |❌|
+| Asynchronous JavaScript               |✅|        [📄](./03_Advanced/05_What_is_asynchronous_code/README.md)        |
+| Error Handling                        |❌|        [📄](./03_Advanced/06_Error_handling/README.md)        |
 | Build This JS Calculator              |❌|
 | The DOM Explained                     |❌|
 | Element Selectors                     |❌|
