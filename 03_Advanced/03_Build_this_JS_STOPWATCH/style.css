@@ -48,4 +48,29 @@ body {
     transition: background-color 0.5s ease;
 }
 
-/*
+/* Start button */
+#startBtn {
+    background-color: hsl(120, 60%, 50%);
+}
+
+#startBtn:hover {
+    background-color: hsl(120, 60%, 40%);
+}
+
+/* Stop button */
+#stopBtn {
+    background-color: hsl(0, 60%, 50%);
+}
+
+#stopBtn:hover {
+    background-color: hsl(0, 60%, 40%);
+}
+
+/* Reset button */
+#resetBtn {
+    background-color: hsl(240, 60%, 50%);
+}
+
+#resetBtn:hover {
+    background-color: hsl(240, 60%, 40%);
+}
