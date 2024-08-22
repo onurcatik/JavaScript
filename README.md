@@ -68,10 +68,10 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Format Currency          | ✅      |  [📄](./02_Intermediate/31_Format_currency_EASY_in/README.md)        |
 ## Advanced
 
-| Lesson Title                          | Status |
-|---------------------------------------|--------|
-| Compound Interest Calculator          |❌|
-| Digital Clock                         |❌|
+| Lesson Title                          | Status | Document| 
+|---------------------------------------|--------|---------
+| Compound Interest Calculator          |✅|        [📄](./03_Advanced/01_Build_a_JS_compound_interest_calculator/README.md)        |
+| Digital Clock                         |✅|        [📄](./03_Advanced/02_Build_this_JS_Digital_Clock/README.md)        |
 | Stopwatch                             |❌|
 | ES6 Modules                           |❌|
 | Asynchronous JavaScript               |❌|

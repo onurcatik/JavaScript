@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(0, 0%, 30%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #ffffff;
+    max-width: 350px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 50%;
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: 2px solid hsl(0, 0%, 90%);
+    border-radius: 5px;
+}
+
+button {
+    background-color: hsl(120, 50%, 40%);
+    color: white;
+    font-size: 1.5em;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: hsl(120, 50%, 30%);
+}
+
+#total {
+    font-size: 2em;
+    margin-top: 20px;
+}
+
+#total-amount {
+    color: hsl(120, 50%, 35%);
+    font-weight: bold;
+}
