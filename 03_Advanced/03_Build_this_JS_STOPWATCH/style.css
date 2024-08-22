@@ -1,0 +1,51 @@
+/* General body styling */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: hsl(210, 36%, 90%);
+    font-family: Arial, sans-serif;
+}
+
+/* Heading styling */
+#myH1 {
+    font-size: 4rem;
+    color: hsl(0, 0%, 25%);
+}
+
+/* Container styling */
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 5px solid hsl(0, 0%, 25%);
+    border-radius: 50px;
+    padding: 30px;
+    background-color: white;
+}
+
+/* Display styling */
+#display {
+    font-size: 5rem;
+    font-family: monospace;
+    font-weight: bold;
+    color: hsl(0, 0%, 30%);
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.75);
+    margin-bottom: 25px;
+}
+
+/* Controls styling */
+#controls button {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 5px;
+    min-width: 125px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+
+/*

@@ -1,0 +1,27 @@
+/* Reset default margin */
+body {
+    margin: 0;
+    font-family: monospace;
+    background: url('images.jpeg') center/cover no-repeat fixed;
+    color: white;
+}
+
+/* Centering the clock container */
+#clock-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Clock styles */
+#clock {
+    font-size: 6.5rem;
+    font-weight: bold;
+    text-align: center;
+    background-color: hsla(0, 0%, 100%, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+}

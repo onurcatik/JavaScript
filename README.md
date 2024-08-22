@@ -72,7 +72,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 |---------------------------------------|--------|---------
 | Compound Interest Calculator          |✅|        [📄](./03_Advanced/01_Build_a_JS_compound_interest_calculator/README.md)        |
 | Digital Clock                         |✅|        [📄](./03_Advanced/02_Build_this_JS_Digital_Clock/README.md)        |
-| Stopwatch                             |❌|
+| Stopwatch                             |❌|        [📄](./03_Advanced/03_Build_this_JS_STOPWATCH/README.md)        |
 | ES6 Modules                           |❌|
 | Asynchronous JavaScript               |❌|
 | Error Handling                        |❌|
