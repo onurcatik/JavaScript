@@ -76,7 +76,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | ES6 Modules                           |✅|        [📄](./03_Advanced/04_Learn_ES6_Modules/README.md)        |
 | Asynchronous JavaScript               |✅|        [📄](./03_Advanced/05_What_is_asynchronous_code/README.md)        |
 | Error Handling                        |✅|        [📄](./03_Advanced/06_Error_handling/README.md)        |
-| Build This JS Calculator              |❌|
+| Build This JS Calculator              |✅|        [📄](./03_Advanced/07_Build_this_JS_calculator/README.md)        |
 | The DOM Explained                     |❌|
 | Element Selectors                     |❌|
 | DOM Navigation                        |❌|
