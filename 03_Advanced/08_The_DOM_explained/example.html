@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div id="container"></div>
+    <h1 id="welcome-msg">Welcome!</h1>
+    <script>
+      const newHeading = document.createElement("h1"); // Create a new <h1> element
+      newHeading.id = "welcome-msg"; // Set the ID
+      newHeading.textContent = "Welcome to My Website!"; // Set the text content
+      document.getElementById("container").appendChild(newHeading); // Append to the DOM
+      const username = prompt("Enter your name:");
+      const welcomeMessage = document.getElementById("welcome-msg");
+
+      // Using a ternary operator to update the welcome message
+      welcomeMessage.textContent =
+        username === "" ? "Welcome, Guest!" : `Welcome, ${username}!`;
+    </script>
+  </body>
+</html>
