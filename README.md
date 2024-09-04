@@ -80,7 +80,7 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | The DOM Explained                     |✅|        [📄](./03_Advanced/08_The_DOM_explained//README.md)        | 
 | Element Selectors                     |✅|        [📄](./03_Advanced/09_Learn_ELEMENT_SELECTORS//README.md)        |
 | DOM Navigation                        |✅|        [📄](./03_Advanced/10_Learn_DOM_Navigation//README.md)        |
-| How to Add/Change HTML                |❌|
+| How to Add/Change HTML                |✅|        [📄](./03_Advanced/11_How_to_ADD_CHANGE_HTML_using/README.md)        |
 | Mouse Events                          |❌|
 | Key Events                            |❌|
 | Hide and Show HTML                    |❌|
