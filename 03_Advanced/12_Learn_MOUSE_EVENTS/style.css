@@ -1,0 +1,21 @@
+/* Styling for the box */
+#myBox {
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Styling for the button */
+#myButton {
+    font-size: 2rem;
+    padding: 10px 20px;
+    cursor: pointer;
+}

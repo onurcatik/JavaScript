@@ -81,8 +81,8 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | Element Selectors                     |✅|        [📄](./03_Advanced/09_Learn_ELEMENT_SELECTORS//README.md)        |
 | DOM Navigation                        |✅|        [📄](./03_Advanced/10_Learn_DOM_Navigation//README.md)        |
 | How to Add/Change HTML                |✅|        [📄](./03_Advanced/11_How_to_ADD_CHANGE_HTML_using/README.md)        |
-| Mouse Events                          |❌|
-| Key Events                            |❌|
+| Mouse Events                          |✅|        [📄](./03_Advanced/12_Learn_MOUSE_EVENTS/README.md)        |
+| Key Events                            |✅|        [📄](./03_Advanced/13_Learn_KEY_EVENTS/README.md)        |
 | Hide and Show HTML                    |❌|
 | NodeLists                             |❌|
 | The classList Property                |❌|
