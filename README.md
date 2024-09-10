@@ -83,12 +83,12 @@ This comprehensive guide is designed to take you from a JavaScript beginner to a
 | How to Add/Change HTML                |✅|        [📄](./03_Advanced/11_How_to_ADD_CHANGE_HTML_using/README.md)        |
 | Mouse Events                          |✅|        [📄](./03_Advanced/12_Learn_MOUSE_EVENTS/README.md)        |
 | Key Events                            |✅|        [📄](./03_Advanced/13_Learn_KEY_EVENTS/README.md)        |
-| Hide and Show HTML                    |❌|
-| NodeLists                             |❌|
-| The classList Property                |❌|
-| Rock Paper Scissors                   |❌|
-| Image Slider                          |❌|
-| Callbacks                             |❌|
+| Hide and Show HTML                    |✅|        [📄](./03_Advanced/14_How_to_HIDE_and_SHOW_HTML_using/README.md)        |
+| NodeLists                             |✅|        [📄](./03_Advanced/15_What_are_NodeLists_in/README.md)        |  
+| The classList Property                |✅|        [📄](./03_Advanced/16_Learn_the_classList_property//README.md)        |
+| Rock Paper Scissors                   |✅|         [📄](./03_Advanced/17_Build_ROCK_PAPER_SCISSORS/README.md)        |
+| Image Slider                          |✅|          [📄](./03_Advanced/18_Build_an_IMAGE_SLIDER/README.md)        |
+| Callbacks                             |✅|          [📄](./03_Advanced/19_What_is_CALLBACK_HELL/README.md)        |
 | Promises                              |❌|
 | Async/Await                           |❌|
 | JSON Files                            |❌|

@@ -1,0 +1,26 @@
+/* Styling for the buttons */
+.my-buttons {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: hsl(210, 50%, 60%);
+    color: white;
+    cursor: pointer;
+}
+
+/* Button hover state */
+.my-buttons:hover {
+    background-color: hsl(210, 50%, 40%);
+}
+
+/* Style for the button that adds new buttons */
+#add-button {
+    margin: 20px;
+    padding: 10px 15px;
+    background-color: hsl(120, 50%, 50%);
+    color: white;
+    border: none;
+    cursor: pointer;
+}

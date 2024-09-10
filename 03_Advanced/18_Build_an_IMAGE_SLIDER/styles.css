@@ -1,0 +1,51 @@
+.slider {
+    position: relative;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    overflow: hidden;
+}
+
+ Image slides 
+ .slides .slide {
+    width: 100%;
+    display: none;
+}
+
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 10px 15px;
+}
+
+/* Previous button */
+.prev {
+    left: 0;
+}
+
+/* Next button */
+.next {
+    right: 0;
+}
+
+/* Fade animation */
+@keyframes fade {
+    from {
+        opacity: 0.5;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Displayed slide */
+.display-slide {
+    display: block;
+    animation: fade 1.5s;
+} 

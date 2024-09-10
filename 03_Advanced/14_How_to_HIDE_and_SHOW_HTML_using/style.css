@@ -1,0 +1,15 @@
+/* Styling for the button */
+#myButton {
+    font-size: 2rem;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+/* Styling for the image */
+#myIMG {
+    margin-top: 20px;
+}

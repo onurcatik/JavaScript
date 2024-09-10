@@ -1,0 +1,42 @@
+/* Styling for the main button */
+#myButton {
+    font-size: 1.5rem;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* The 'enabled' class */
+.enabled {
+    background-color: hsl(220, 100%, 50%);
+    color: white;
+}
+
+/* The 'hover' class */
+.hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-weight: bold;
+}
+
+/* The 'disabled' class */
+.disabled {
+    background-color: hsl(0, 0%, 60%);
+    color: hsl(0, 0%, 80%);
+    cursor: not-allowed;
+}
+
+/* Container for multiple buttons */
+.container {
+    display: flex;
+    gap: 10px;
+}
+
+.container .myButton {
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
